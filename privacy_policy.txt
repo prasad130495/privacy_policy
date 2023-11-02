@@ -1,14 +1,10 @@
-Creating a privacy policy for your money manager app is crucial to inform users about how their personal information is collected, used, and protected. Please note that while I can provide a template, it's important to consult with a legal professional or privacy expert to ensure that your privacy policy complies with relevant laws and regulations. Here's a sample privacy policy for your money manager app:
+**Privacy Policy for Money Manager**
 
----
-
-**Privacy Policy for [Your Money Manager App Name]**
-
-Last Updated: [Date]
+Last Updated: 2 November 2023
 
 **1. Introduction**
 
-Welcome to [Your Money Manager App Name] ("the App"). At [Your Company Name], we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our App. By using the App, you agree to the practices described in this policy.
+Welcome to Money Manager ("the App"). At Prasad DEV, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our App. By using the App, you agree to the practices described in this policy.
 
 **2. Information We Collect**
 
@@ -57,7 +53,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 **8. Contact Us**
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions or concerns about our Privacy Policy, please contact us at prasad130495@gmail.com.
 
 ---
 
