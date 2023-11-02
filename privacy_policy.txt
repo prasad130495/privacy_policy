@@ -57,4 +57,4 @@ If you have any questions or concerns about our Privacy Policy, please contact u
 
 ---
 
-Please make sure to customize this template to suit the specific needs of your money manager app. Additionally, ensure that you stay compliant with applicable data protection laws, such as GDPR or CCPA, depending on your user base and geographical reach.
+
